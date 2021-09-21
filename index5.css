@@ -1,0 +1,218 @@
+
+form{
+    width:400px;height:530px;background:rgba(254, 255, 255, 0.4);border-radius:25px;box-shadow:0 0 40px -10px #000;margin:calc(50vh - 220px) auto;padding:20px 30px;max-width:calc(40%);box-sizing:border-box;font-family:'Montserrat',sans-serif;position:relative
+}
+
+.im1{
+    width: 40px;
+    height: 30px;
+}
+.im2{
+    width: 40px;
+    height: 30px;
+    margin-left: 40px;
+}
+.im3{
+    width: 40;
+    height: 30px;
+    margin-left: 40px;
+}
+
+button{
+    display: block;
+    width: 100%;
+    height: 50px;
+    line-height: center;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 19;
+    border: 2px solid #ecc513;
+    background:#ecc513 ;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.5s
+}
+
+
+.image{
+    width:80px;
+    height:80px;
+  margin-left: 125px;
+}
+button:hover{
+    background: transparent;
+    border:2px solid #fff;
+    max-width: 400px; 
+}
+body{
+    background-image: url(aa94526d-1437-45a4-877e-91a856ce139a.jpg) ;
+    background-repeat:no-repeat; 
+    background-position :center;
+ background-size: cover;
+}
+form{
+    width:400px;height: 600px;background:rgba(254, 255, 255, 0.4);border-radius:25px;box-shadow:0 0 40px -10px #000;margin:calc(50vh - 220px) auto;padding:20px 30px;max-width:calc(40%);box-sizing:border-box;font-family:'Montserrat',sans-serif;position:relative
+}
+.n1{
+    
+   margin-left: 80px;
+
+}
+.n56{
+margin:7px;
+padding: 5px;
+border-radius: 15px;
+border: 1px solid #000 ;
+outline: none;
+}
+.n99{ 
+margin-left:15px;
+}
+
+h2{
+    margin-left: 120px;
+}
+
+.im1{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+.im2{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+.im3{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+button{
+    display: block;
+    width: 100%;
+    height: 50px;
+    line-height: center;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 19;
+    border: 2px solid #ec6313;
+    background:#ecc513 ;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+
+
+button:hover{
+    background: transparent;
+    border:2px solid #fff;
+    color:#000;
+
+    
+}
+p{
+    margin-left:57px;
+}
+@media(max-width:500px){body{
+    background-image: url(wp4588235.jpg) ; background-repeat: no-repeat; background-position: center; background-size: 100%;
+
+}
+form{
+    width: 500px;height: 750px;;background:rgba(254, 255, 255, 0.4);border-radius:25px;box-shadow:0 0 40px -10px #000;margin:calc(50vh - 220px) auto;padding:20px 30px;max-width:calc(40%);box-sizing:border-box;font-family:'Montserrat',sans-serif;position:relative
+}
+
+.im1{
+    width: 40;
+    height: 30px;
+}
+.im2{
+    width: 40;
+    height: 30px;
+    margin-left: 40px;
+}
+.im3{
+    width: 40;
+    height: 30px;
+    margin-left: 40px;
+}
+button{
+    display: block;
+    width: 100%;
+    height: 50px;
+    line-height: center;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 19;
+    border: 2px solid #ecc513;
+    background:#ecc513 ;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.5s
+}
+
+
+.image{
+    width: 60;
+    height: 50;
+  margin-left: 120px;
+}
+button:hover{
+    background: transparent;
+    border:2px solid #fff;
+    max-width: 400px; 
+}
+body{
+    background-image: url(aa94526d-1437-45a4-877e-91a856ce139a.jpg) ;
+    background-repeat:no-repeat; 
+    background-position :center;
+ background-size: 100%;
+}
+form{
+    width:400px;height:100%;background:rgba(254, 255, 255, 0.4);border-radius:25px;box-shadow:0 0 40px -10px #000;margin:calc(50vh - 220px) auto;padding:20px 30px;max-width:calc(40%);box-sizing:border-box;font-family:'Montserrat',sans-serif;position:relative
+}
+
+.im1{
+    width: 40;
+    height: 30px;
+}
+.im2{
+    width: 40;
+    height: 30px;
+    margin-left: 40px;
+}
+.im3{
+    width: 40;
+    height: 30px;
+    margin-left: 40px;
+}
+button{
+    display: block;
+    width: 100%;
+    height: 50px;
+    line-height: center;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 19;
+    border: 2px solid #ec6313;
+    background:#ecc513 ;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+
+.image{
+    width: 60;
+    height: 50;
+  margin-left: 120px;
+}
+button:hover{
+    background: transparent;
+    border:2px solid #fff
+
+    
+}
+
+}
